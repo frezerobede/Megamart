@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Megamart/static/css/main.454470a4.css",
+    "main.js": "/Megamart/static/js/main.7a70a706.js",
+    "static/js/787.633816a4.chunk.js": "/Megamart/static/js/787.633816a4.chunk.js",
+    "index.html": "/Megamart/index.html",
+    "main.454470a4.css.map": "/Megamart/static/css/main.454470a4.css.map",
+    "main.7a70a706.js.map": "/Megamart/static/js/main.7a70a706.js.map",
+    "787.633816a4.chunk.js.map": "/Megamart/static/js/787.633816a4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.454470a4.css",
+    "static/js/main.7a70a706.js"
+  ]
+}
